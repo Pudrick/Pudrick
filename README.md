@@ -10,7 +10,7 @@ But they are all commands and instructions.
 <br/>  
 
 
-## Rapidfire  
+## Something fun: 
 <table><tr><td valign="top" width="50%">
 
 - 🌱 Want to learn lots of awesome things.  
