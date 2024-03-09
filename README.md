@@ -4,7 +4,7 @@
 
 
 ### Wrapping and wrapping is the final answer of Computer Science.  
-But they are all commands and instructions.  
+But they are all commands and instructions after all.  
   
 
 <br/>  
