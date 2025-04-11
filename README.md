@@ -15,7 +15,7 @@
 - 🌱 Want to learn lots of awesome things.  
   
 
-- ⚡ Fun fact: Usage of spaces instead of tab is the only source of evil.  
+- ⚡ Fun fact: Using spaces instead of tabs is the root of all evil.  
   
 
 
