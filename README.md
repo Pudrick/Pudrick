@@ -11,7 +11,7 @@
 
 ## Something about: 
 
-- 🌱 Want to learn lots of awesome things.  
+- 🌱 Want to learn more awesome things.  
 
 - ⚡ Fun fact: Using spaces instead of tabs is the root of all evil.  
   
