@@ -9,27 +9,12 @@
 <br/>  
 
 
-## Something fun: 
-<table><tr><td valign="top" width="50%">
+## Something about: 
 
 - 🌱 Want to learn lots of awesome things.  
-  
 
 - ⚡ Fun fact: Using spaces instead of tabs is the root of all evil.  
   
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-
 
 
 ## Github Stats  
