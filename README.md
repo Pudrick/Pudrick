@@ -3,7 +3,7 @@
 
 
 
-### Wrapping and wrapping is the final answer of Computer Science.  
+### In the end, wrapping and wrapping is the ultimate answer in Computer Science.
   
 
 <br/>  
