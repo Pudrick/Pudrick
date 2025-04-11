@@ -4,7 +4,6 @@
 
 
 ### Wrapping and wrapping is the final answer of Computer Science.  
-But they are all commands and instructions after all.  
   
 
 <br/>  
@@ -19,7 +18,6 @@ But they are all commands and instructions after all.
 - ⚡ Fun fact: Usage of spaces instead of tab is the only source of evil.  
   
 
-- Ciallo～(∠・ω< )⌒★  
 
 
 </td><td valign="top" width="50%">
