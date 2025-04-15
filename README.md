@@ -1,34 +1,13 @@
-## Power!!  
-  
-
-
-
-### In the end, wrapping and wrapping is the ultimate answer in Computer Science.
+In the end, wrapping and wrapping is the ultimate answer in Computer Science.
   
 
 <br/>  
 
 
-## Something about: 
 
-- 🌱 Want to learn more awesome things.  
 
-- ⚡ Fun fact: Using spaces instead of tabs is the root of all evil.  
+- Using spaces instead of tabs is the root of all evil.  
   
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pudrick&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudrick&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
   
 
@@ -39,8 +18,3 @@
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
