@@ -1,4 +1,4 @@
-In the end, wrapping and wrapping is the ultimate answer in Computer Science.
+In the end, wrapping and wrapping is the ultimate answer of Computer Science.
   
 
 <br/>  
